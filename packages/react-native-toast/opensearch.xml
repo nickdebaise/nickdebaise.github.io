@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>React Native Toast</ShortName>
+  <Description>Search React Native Toast</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="16" height="16" type="image/x-icon">https://nickdebaise.github.io/packages/react-native-toast/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://nickdebaise.github.io/packages/react-native-toast/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://nickdebaise.github.io/packages/react-native-toast/opensearch.xml" />
+  <moz:SearchForm>https://nickdebaise.github.io/packages/react-native-toast/</moz:SearchForm>
+</OpenSearchDescription>
